@@ -6,3 +6,8 @@ def square(number):
 
 result = square(7)
 print("7 squared is " + str(result))
+
+def greet(name):
+    print("Nice to meet you, " + name)
+
+greet("Christian")
