@@ -11,3 +11,7 @@ def greet(name):
     print("Nice to meet you, " + name)
 
 greet("Christian")
+def farewell(name):
+    print("Goodbye, " + name)
+
+farewell("Christian")
