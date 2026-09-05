@@ -15,3 +15,5 @@ def farewell(name):
     print("Goodbye, " + name)
 
 farewell("Christian")
+
+print("This script was written while learning Git and GitHub.")
